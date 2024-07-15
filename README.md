@@ -1,4 +1,4 @@
-# Create T3 App (#t3stack)
+# Create T3 Stack Auth (#t3stack)
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
